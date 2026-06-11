@@ -10,6 +10,8 @@ A minimal FastAPI application to learn deployment and infrastructure concepts in
 │   └── main.py          # FastAPI application
 ├── requirements.txt     # Python dependencies
 ├── Dockerfile          # Docker configuration
+├── test/
+│   └── test_healthcheck.py          # FastAPI application
 └── README.md           # This file
 ```
 
